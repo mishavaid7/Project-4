@@ -1,0 +1,76 @@
+html, body {
+    margin: 0;
+    background: rgb(255, 255, 255);
+}
+
+.text-container {
+    max-width: 760px;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, sans-serif;
+}
+.h1 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 2em;
+  }
+  
+#rest-grades {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.iframe-container {
+    text-align:center;
+      width:50%;
+}     
+img {
+    max-width: 100%
+}
+
+.full-size-image {
+    padding: 15em 0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.full-size-image h1 {
+    color: white;
+    text-shadow: 0 0 40px black;
+    font-size: 3em;
+}
+
+.plot-holder .caption {
+    color: grey;
+    text-align: right;
+}
+
+.plot-holder h3 {
+    font-size: 2em;
+}
+
+.plot-holder .subtitle {
+    font-weight: bold;
+}
+
+a:link {
+    color: rgb(255,87,87);						 
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(255,87,87);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
